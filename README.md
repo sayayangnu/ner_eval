@@ -7,7 +7,7 @@ Data and links to task information and paper are available
 [on github](https://github.com/leondz/emerging_entities_17). NOTE: there are illegal tags in the test data.
 
 
-Instructor repository at <https://github.com/emmerkhofer/vector_paraphrase> . 
+Instructor repository at <https://github.com/emmerkhofer/ner_eval> . 
 
 ## Entity mapping
 
